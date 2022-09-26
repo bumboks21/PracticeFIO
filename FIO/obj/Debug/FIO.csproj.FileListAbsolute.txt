@@ -1,0 +1,16 @@
+C:\Users\пк\source\repos\FIO\FIO\bin\Debug\FIO.exe.config
+C:\Users\пк\source\repos\FIO\FIO\bin\Debug\FIO.exe
+C:\Users\пк\source\repos\FIO\FIO\bin\Debug\FIO.pdb
+C:\Users\пк\source\repos\FIO\FIO\obj\Debug\FIO.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\FIO\FIO\obj\Debug\FIO.csproj.SuggestedBindingRedirects.cache
+C:\Users\пк\source\repos\FIO\FIO\obj\Debug\MainWindow.g.cs
+C:\Users\пк\source\repos\FIO\FIO\obj\Debug\App.g.cs
+C:\Users\пк\source\repos\FIO\FIO\obj\Debug\FIO_MarkupCompile.cache
+C:\Users\пк\source\repos\FIO\FIO\obj\Debug\FIO_MarkupCompile.lref
+C:\Users\пк\source\repos\FIO\FIO\obj\Debug\MainWindow.baml
+C:\Users\пк\source\repos\FIO\FIO\obj\Debug\FIO.g.resources
+C:\Users\пк\source\repos\FIO\FIO\obj\Debug\FIO.Properties.Resources.resources
+C:\Users\пк\source\repos\FIO\FIO\obj\Debug\FIO.csproj.GenerateResource.cache
+C:\Users\пк\source\repos\FIO\FIO\obj\Debug\FIO.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\FIO\FIO\obj\Debug\FIO.exe
+C:\Users\пк\source\repos\FIO\FIO\obj\Debug\FIO.pdb
